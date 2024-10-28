@@ -1,4 +1,4 @@
-https://drive.google.com/file/d/1qqEonsflHLLnepI92bt9hd5xqqtVWZ8V/view?usp=drive_link
+https://github.com/user-attachments/assets/ddeec868-a14d-451b-8f7e-6f05b16cd04a
 
 # ‘LinkedIn AI Reply Writer’ Chrome Extension
 
